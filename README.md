@@ -5,7 +5,7 @@ LnkScout is a command-line tool for scanning `.lnk` (shortcut) files in a specif
 ## Usage
 
 ```bash
-Usage: LnkScout.exe <directory path> [--valid/-v | --invalid/-i [--remove/-r]] [--sort/-s] [--nobanner/-n] [--help/-h]
+LnkScout <directory path> [--valid/-v | --invalid/-i [--remove/-r]] [--sort/-s] [--nobanner/-n] [--help/-h]
 ```
 
 ## Options
